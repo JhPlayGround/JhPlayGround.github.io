@@ -1,6 +1,6 @@
 ---
 layout : single
-title : "카테고리 테스트"
+title : "python - elasticsearch 연동"
 categories: elasticsearch
 author_profile: true
 tags : elasticsearch
