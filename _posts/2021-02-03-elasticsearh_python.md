@@ -1,3 +1,12 @@
+---
+layout : single
+title : "카테고리 테스트"
+categories: elasticsearch
+author_profile: true
+tags : elasticsearch
+---
+
+# python - elasticsearch 연동
 python에서 elasticsearch 연결하기 위해 pip으로 필요한 라이브러리 설치
 
 ```linux
