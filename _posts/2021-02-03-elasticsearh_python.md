@@ -36,7 +36,7 @@ from elasticsearch import Elasticsearch
 
 3. noritokenizer 설치 및 확인
 
-   ```linux
+   ```python
    #디렉토리 이동
    cd /usr/share/elasticsearch/bin/
    
